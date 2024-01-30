@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =6
+let g:netrw_dirhist_6='/Users/michaellappert/.oh-my-zsh'
+let g:netrw_dirhist_5='/Users/michaellappert/Downloads/repos/web_development_bootcamp/backend/3.5 Secrets Project/.git'
+let g:netrw_dirhist_4='/Users/michaellappert/.oh-my-zsh/custom/plugins/zsh-autosuggestions'
+let g:netrw_dirhist_3='/Users/michaellappert/.oh-my-zsh/custom/plugins'
+let g:netrw_dirhist_2='/Users/michaellappert/.oh-my-zsh/custom'
+let g:netrw_dirhist_1='/Users/michaellappert/Library/CloudStorage/OneDrive-Personal/github/flask-backend/foodjuggler'
