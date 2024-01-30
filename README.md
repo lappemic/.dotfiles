@@ -6,9 +6,14 @@ Welcome to my first attempt at creating a dotfiles repository! This repository i
 
 ## Current Contents
 
-- `.oh-my-zsh`: Custom themes and plugins for the Oh My Zsh framework.
-- `.vim`: Initial Vim configuration settings.
-- `.zshrc`: Basic Zsh configuration with a few aliases and environment variables.
+- **.bash_profile**: Custom settings for my Bash environment.
+- **.bashrc**: Configuration for interactive Bash shells.
+- **.git**: Directory containing Git configuration and attributes.
+- **.oh-my-zsh**: Custom configurations for Oh My Zsh, a framework for Zsh.
+- **.profile**: General shell settings, used when logging in.
+- **.ssh**: Secure Shell (SSH) configuration directory, including keys and other configurations.
+- **.vimrc**: Configuration file for Vim, containing settings, plugins, and customizations.
+- **.zshrc**: Zsh configuration file with custom settings, aliases, and more.
 
 ## Installation
 
@@ -67,3 +72,7 @@ For questions, suggestions, or collaboration, feel free to open an issue or cont
 ---
 
 This is just the start, and I'm excited to see where this dotfiles journey takes me. Thank you for checking it out! 🚀
+
+
+
+
