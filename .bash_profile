@@ -21,3 +21,5 @@ eval "$(pyenv init -)"
 
 source /Users/michaellappert/.config/broot/launcher/bash/br
 export PATH="/Users/michaellappert/.ebcli-virtual-env/executables:$PATH"
+
+complete -C /opt/homebrew/bin/terraform terraform

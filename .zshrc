@@ -113,3 +113,8 @@ source /Users/michaellappert/.config/broot/launcher/bash/br
 
 alias gacph="git add .; git commit -m 'update'; git push; git push heroku main"
 alias gacp="git add .; git commit -m 'update'; git push"
+alias ghcs="gh copilot suggest"
+alias ghce="gh copilot explain"
+
+autoload -U +X bashcompinit && bashcompinit
+complete -o nospace -C /opt/homebrew/bin/terraform terraform
